@@ -1,2 +1,5 @@
 /QueryLanguage/.nb-gradle/
 /QueryLanguage/build/
+/Laskin/.nb-gradle/
+/Laskin/build/
+.DS_Store
